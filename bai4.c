@@ -1,3 +1,9 @@
+/******************************************************************************
+ * Họ và tên: [ĐIỀN TÊN TẠI ĐÂY]
+ * MSSV:      [ĐIỀN MSSV TẠI ĐÂY]
+ * Lớp:       [ĐIỀN LỚP TẠI ĐÂY]
+ *****************************************************************************/
+
 // BÀI 4: XÂY DỰNG CHƯƠNG TRÌNH TÍNH ĐIỂM TRUNG BÌNH 
 // Input: Nhập vào từ bàn phím điểm môn Toán, Lý, Hóa 
 // Output: Hiển thị ra màn hình điểm trung bình  
